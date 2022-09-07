@@ -9,3 +9,7 @@ Backup of *.doc*
 
 # Word
 *.docx
+
+# PDF
+
+*.pdf
